@@ -1,13 +1,4 @@
 # 🏥 Hospital Management System
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-3-lightblue?style=flat-square&logo=sqlite)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-
-A fully-featured **Hospital Management System** built with Python and SQLite. Covers database design, relational modeling, CRUD operations, stored views, and analytical SQL queries across 10 interlinked tables.
-
----
-
 ## 📐 Database Schema
 
 ```
