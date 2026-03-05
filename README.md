@@ -52,9 +52,6 @@ departments ──< doctors ──< appointments >── patients
 
 ## 🚀 Quick Start
 
-```bash
-git clone https://github.com/YOUR_USERNAME/hospital-management-system.git
-cd hospital-management-system
 
 pip install -r requirements.txt
 
@@ -70,19 +67,6 @@ sqlite3 hospital.db < queries.sql
 ```
 
 ---
-
-## 🗂️ Project Structure
-
-```
-hospital-management-system/
-│
-├── schema.sql       # DDL — all tables, indexes, views
-├── seed.py          # Populates DB with realistic sample data
-├── queries.sql      # 20+ analytical SQL queries
-├── app.py           # Python CLI — CRUD + reporting
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -106,6 +90,4 @@ hospital-management-system/
 
 ---
 
-## 📄 License
 
-MIT License
